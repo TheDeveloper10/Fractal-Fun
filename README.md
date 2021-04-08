@@ -25,5 +25,8 @@ Julia Set, etc. I fixed the problem by making them on multiple threads and using
 For more screenshots: 
 https://thedevelopers.tech/fractal_fun
 
+## Resources
+https://github.com/TheDeveloper10/Fractal-Fun/blob/main/resources.txt
+
 ## LICENSE
 Apache-2.0 License
