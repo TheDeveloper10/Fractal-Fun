@@ -2,7 +2,7 @@
 C++/SDL2 project to easily visualize fractals(like Mandelbrot Set, Julia Set, Burning Ship Fractal, Koch Snowflake, etc.) on CPU
 
 ## How to run it?
-You need Visual Studio 2015 and above and you can just open the .sln file.
+You need Visual Studio 2015(or above) and you can just open the .sln file.
 
 ## How to see different fractals and colors?
 * You can change to the fractal you want to see in Source.cpp - simply remove the
