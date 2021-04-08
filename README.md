@@ -22,7 +22,7 @@ Julia Set, etc. I fixed the problem by making them on multiple threads and using
 ![alt text](https://thedevelopers.tech/images/pages/fractal_fun/screenshots/screenshot4.jpg)
 ![alt text](https://thedevelopers.tech/images/pages/fractal_fun/screenshots/screenshot5.jpg)
 <br>
-For more screenshots: 
+For more screenshots(and a video):<br> 
 https://thedevelopers.tech/fractal_fun
 
 ## Resources
