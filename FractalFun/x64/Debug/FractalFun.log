@@ -1,0 +1,148 @@
+﻿  Source.cpp
+D:\GitHub\Fractal-Fun\FractalFun\Core\Drawing\Color.h(29,9): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Drawing\Color.h(28,9): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Drawing\Color.h(27,9): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Drawing\Color.h(37,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Drawing\Color.h(56,21): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Drawing\Color.h(55,21): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Drawing\Color.h(54,21): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\FF_Window.h(46,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Math\Vector2D.h(44,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Math\Vector2D.h(47,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Math\Vector2D.h(50,28): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Math\Vector2D.h(53,28): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Math\Vector2D.h(76,21): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Math\Vector2D.h(76,18): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Drawing\Graphics\Graphics.h(56,12): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Drawing\Graphics\Graphics.h(56,26): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Drawing\Graphics\Graphics.h(57,12): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Drawing\Graphics\Graphics.h(57,24): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Drawing\Graphics\Graphics.h(77,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Drawing\Graphics\Graphics.h(77,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Drawing\Graphics\Graphics.h(80,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Drawing\Graphics\Graphics.h(81,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\TreeFractal.h(25,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Math\Complex.h(14,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Math\Complex.h(23,25): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Core\Math\Complex.h(23,19): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\FractalColors.h(23,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet.h(28,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet.h(28,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet.h(28,46): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet.h(28,23): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet.h(29,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet.h(29,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet.h(29,47): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet.h(29,23): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet.h(44,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet.h(44,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(43,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(43,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(43,53): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(43,29): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(53,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(53,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(53,37): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(53,12): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(54,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(54,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(54,37): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(54,12): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(55,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(55,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(55,37): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(55,12): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(56,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(56,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(56,37): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(56,12): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(125,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(125,57): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(126,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(126,57): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(127,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(127,57): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(128,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\MandelbrotSet_AVX2.h(128,57): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet.h(30,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet.h(30,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet.h(30,46): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet.h(30,23): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet.h(31,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet.h(31,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet.h(31,47): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet.h(31,23): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet.h(42,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet.h(42,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(54,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(54,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(54,38): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(54,14): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(59,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(59,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(59,41): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(59,16): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(60,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(60,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(60,41): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(60,16): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(61,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(61,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(61,41): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(61,16): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(62,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(62,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(62,41): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(62,16): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(127,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(127,58): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(128,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(128,57): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(129,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(129,57): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(130,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\JuliaSet_AVX2.h(130,57): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal.h(29,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal.h(29,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal.h(29,46): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal.h(29,23): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal.h(30,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal.h(30,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal.h(30,47): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal.h(30,23): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal.h(46,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal.h(46,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(46,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(46,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(46,53): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(46,29): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(56,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(56,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(56,37): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(56,12): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(57,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(57,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(57,37): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(57,12): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(58,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(58,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(58,37): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(58,12): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(59,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(59,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(59,37): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(59,12): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(131,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(131,58): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(132,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(132,57): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(133,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(133,57): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(134,1): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BurningShipFractal_AVX2.h(134,57): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BarnsleysFern.h(44,70): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BarnsleysFern.h(44,19): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BarnsleysFern.h(45,68): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BarnsleysFern.h(45,19): warning C4244: 'initializing': conversion from 'float' to 'size_t', possible loss of data
+D:\GitHub\Fractal-Fun\FractalFun\Fractals\Custom Fractals\BarnsleysFern.h(47,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  FractalFun.vcxproj -> D:\GitHub\Fractal-Fun\x64\Debug\FractalFun.exe

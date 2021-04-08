@@ -1,0 +1,7 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: unresolved external symbol _SDL_GetError referenced in function "int __cdecl SDL_main(void)" (?SDL_main@@YAHXZ)
+Source.obj : error LNK2019: unresolved external symbol _SDL_Init referenced in function "int __cdecl SDL_main(void)" (?SDL_main@@YAHXZ)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\VS Projects\FractalFun\\vendor\SDL2\lib\x64\SDL2.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\VS Projects\FractalFun\\vendor\SDL2\lib\x64\SDL2main.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\VS Projects\FractalFun\Debug\FractalFun.exe : fatal error LNK1120: 3 unresolved externals
